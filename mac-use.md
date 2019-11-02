@@ -63,4 +63,22 @@
     14. 向下清扫 显示平铺桌面应用
     15. 启动台 三指向下 大拇指向上
     16. 启动桌面 三指向上 大拇指向外   
+- 基础窗口快捷键
+    1. command + t新建标签页
+    2. command+ w 关闭当前窗口(访达)
+    3. command + q 关闭程序
+    4. command + tab 切换窗口
+    5. command +tab 再按住command不松 点击q 关闭所有程序
+    6. command + ~ 切换窗口 
+    7. command + option + esc 强制关闭程序的窗口
+    8. fn + delete 删除光标后面内容文本
+    9. command + 点击链接 在新的窗口打开页面了
+- mac 截屏
+    1. 屏幕全部截取 command + shift + 3 保存在桌面
+    2. 三指拖移选择区域截取 command + shift +4
+    3. 上面操作 + ctrl 再截图 ctrl+v 可以直接粘贴 不保存在桌面上
+    4. shift + command + 4 光标激活 按住 ctrl 可以选择区域截图
+    5. command + shift + 4 松开手点击空格 点击程序 可以截取当前窗口的图片
+    
+
     
